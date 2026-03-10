@@ -2,7 +2,7 @@
   "name": "centricare-ui",
   "type": "module",
   "version": "0.0.1",
-  "main": "dist/main.js",
+  "main": "dist/centricare-ui.js",
   "types": "dist/main.d.ts",
   "files": [
     "dist"
